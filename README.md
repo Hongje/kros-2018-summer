@@ -19,6 +19,8 @@
 - sklearn 
 - opencv-python
 
+#### Download for Windows
+
 ### Note
 YOLO implementation are simple refactoring of [Peng Zhang's implementation](https://github.com/hizhangp/yolo_tensorflow) for lab.
 
